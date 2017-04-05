@@ -1,4 +1,4 @@
-package base;
+package com.lushiju.myapp.base;
 
 import android.app.Application;
 
